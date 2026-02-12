@@ -1,0 +1,15 @@
+{
+  "originHash" : "f1d41d2b0726b93870020f51fe8088db99c889fae982de9af3350642a359491f",
+  "pins" : [
+    {
+      "identity" : "swiftyjscore",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mattmassicotte/SwiftyJSCore.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "0f709316e5642a4545a89ea48b7c982c26e42884"
+      }
+    }
+  ],
+  "version" : 3
+}
