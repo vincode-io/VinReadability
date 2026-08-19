@@ -14,7 +14,7 @@ let package = Package(
         ),
     ],
 	dependencies: [
-		.package(url: "https://github.com/mattmassicotte/SwiftyJSCore.git", branch: "main"),
+		.package(url: "https://github.com/michalbencur/SwiftyJSCore.git", branch: "main"),
 	],
     targets: [
         .target(
