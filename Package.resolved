@@ -1,13 +1,13 @@
 {
-  "originHash" : "f1d41d2b0726b93870020f51fe8088db99c889fae982de9af3350642a359491f",
+  "originHash" : "0419db56429ca77c30b03bf47f2ed04bdf4e770023d6b46534fabf075bdd4d36",
   "pins" : [
     {
       "identity" : "swiftyjscore",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/mattmassicotte/SwiftyJSCore.git",
+      "location" : "https://github.com/vincode-io/SwiftyJSCore.git",
       "state" : {
         "branch" : "main",
-        "revision" : "0f709316e5642a4545a89ea48b7c982c26e42884"
+        "revision" : "3be19d78e55206ea0e8da05ff814046ae3bcbada"
       }
     }
   ],
